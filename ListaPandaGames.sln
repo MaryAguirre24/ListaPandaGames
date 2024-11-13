@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaPandaGames.FE", "ListaPandaGames.FE\ListaPandaGames.FE.csproj", "{769803C6-E5AA-45BD-B54D-37DD624EAF9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaPandaGames.BA", "ListaPandaGames.BA\ListaPandaGames.BA.csproj", "{3E7C3245-F357-4F94-92F3-811A0AA192BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769803C6-E5AA-45BD-B54D-37DD624EAF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769803C6-E5AA-45BD-B54D-37DD624EAF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769803C6-E5AA-45BD-B54D-37DD624EAF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769803C6-E5AA-45BD-B54D-37DD624EAF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7C3245-F357-4F94-92F3-811A0AA192BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7C3245-F357-4F94-92F3-811A0AA192BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7C3245-F357-4F94-92F3-811A0AA192BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7C3245-F357-4F94-92F3-811A0AA192BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABEB5053-9891-43C6-99CF-4CE2457A8F15}
+	EndGlobalSection
+EndGlobal
